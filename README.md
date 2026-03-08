@@ -5,7 +5,7 @@ This project implements a virtual keyboard that can be controlled using hand ges
 Instead of pressing physical keys, you can move your hand and perform a pinch gesture (index + thumb) to press keys.
 The keyboard appears on the screen, and detected inputs are simulated on your computer (you can type in Google, Notepad, etc.).
 
-✨ Features
+Features
 
 -> Virtual on-screen keyboard
 
@@ -84,3 +84,4 @@ Run the following command:
 
 
 -> Press q to quit the program.
+
