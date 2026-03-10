@@ -33,7 +33,7 @@ Clone the repository:
 
 1. **git clone https://github.com/your-username/virtual-keyboard-gesture.git**
 
-2. **cd virtual-keyboard-gesture**
+2. **cd AirTouch**
 
 Environment Setup:
 
@@ -84,4 +84,5 @@ Run the following command:
 
 
 -> Press q to quit the program.
+
 
