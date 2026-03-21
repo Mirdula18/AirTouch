@@ -83,6 +83,7 @@ Run the following command:
 -> Perform a pinch gesture (thumb + index) to press the key.
 
 
+
 -> Press q to quit the program.
 
 
