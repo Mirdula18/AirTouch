@@ -7,6 +7,7 @@ The keyboard appears on the screen, and detected inputs are simulated on your co
 
 Features
 
+
 -> Virtual on-screen keyboard
 
 -> Hand tracking using MediaPipe
