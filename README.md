@@ -1,6 +1,7 @@
 # Virtual Keyboard using Hand Gestures (OpenCV + MediaPipe)
 
 
+
 This project implements a virtual keyboard that can be controlled using hand gestures captured via a webcam.
 Instead of pressing physical keys, you can move your hand and perform a pinch gesture (index + thumb) to press keys.
 The keyboard appears on the screen, and detected inputs are simulated on your computer (you can type in Google, Notepad, etc.).
